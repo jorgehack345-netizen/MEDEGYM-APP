@@ -1,0 +1,7 @@
+
+{
+  "gym_name": "MEDEGYM",
+  "whatsapp_prefix": "+52",
+  "message_template": "Hola {nombre}, tu membresía vence el {fecha}. Por favor realiza tu pago para mantener tu acceso. ¡Gracias! — MEDEGYM"
+}
+``
